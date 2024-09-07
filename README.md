@@ -28,6 +28,4 @@ The system uses locks to ensure thread-safe operations, making it safe to perfor
 
 Summary: 
 The program demonstrates how a multilevel caching system operates, handling data across various levels with different eviction strategies. It showcases the management of cache size, eviction of less relevant items, and the dynamic addition or removal of cache levels. This type of system is useful in scenarios where optimizing data access and storage across different layers is critical, such as in high-performance computing and web caching solutions.
-
-if you've read till here,the description  was all AI generated,I,myself learnt a lot from this project and about the importance of cache and its handling and how important is it for keep things running and optimized..looking forward to keep learning new things.
 ///////////////////
